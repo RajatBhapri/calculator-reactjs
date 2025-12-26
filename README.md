@@ -15,7 +15,7 @@ Real-time calculation updates
 ⚙️ Installation & Setup
 
 Clone the repository
-git clone https://github.com/your-username/react-calculator.git
+git clone https://github.com/RajatBhapri/calculator-reactjs.git
 
 Install dependencies
 npm install
